@@ -1,7 +1,8 @@
 name: digital billboard
 favicon: null
-layout_spectrum: 0.5147833400405943
+layout_spectrum: 1
 typography_spectrum: 0.5746152189094573
+title: Realities of a good life
 cta:
   domain: null
   bucket: null
