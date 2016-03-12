@@ -1,0 +1,28 @@
+name: digital billboard
+favicon: null
+layout_spectrum: 0.5147833400405943
+typography_spectrum: 0.5746152189094573
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.18358612759038806
+  lightness: 0.07829250441864133
+  saturation: 0.3954170548822731
+  rhythmicContrast: 0.37670837971381843
+purpose: []
